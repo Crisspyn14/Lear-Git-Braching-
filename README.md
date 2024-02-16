@@ -1,6 +1,6 @@
 # Lear-Git-Braching
 
-# Christopher Payano Acosta
+# Cristopher Payano Acosta
 [Evidencia del Trabajo](https://miucateciedu-my.sharepoint.com/:i:/g/personal/20210358_miucateci_edu_do/EbZe3iCSMk5Kk1q8AOWyvT8B_uJMymy14k24rMnhHfjv0Q)
 # 2021-0358
 
